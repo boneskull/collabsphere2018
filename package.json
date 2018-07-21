@@ -1,0 +1,23 @@
+{
+  "name": "collabsphere2018",
+  "version": "0.0.0",
+  "description": "",
+  "main": "create-categories.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boneskull/collabsphere2018.git"
+  },
+  "keywords": [],
+  "author": "Christopher Hiller <boneskull@boneskull.com> (https://boneskull.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/boneskull/collabsphere2018/issues"
+  },
+  "homepage": "https://github.com/boneskull/collabsphere2018#readme",
+  "dependencies": {
+    "box-node-sdk": "^1.19.0"
+  }
+}
